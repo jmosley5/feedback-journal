@@ -6,8 +6,14 @@ This is a place where I keep track of my accomplishments, growth opportunities, 
 
 ## 📚 Sections
 
+### Brag Book
+
 - [Accomplishments](brag-book/accomplishments)
 - [Contributions](brag-book/contributions)
+- [Weekly Wins](brag-book/weekly-wins)
+
+### Feedback Journal
+
 - [Growth opportunities](feedback-journal/constructive-feedback/growth-opportunities)
 - [Performance Reviews](feedback-journal/performance-reviews)
 - [Compliments Spotted in the wild](feedback-journal/positive-feedback/2025/compliments-spotted-in-the-wild)
